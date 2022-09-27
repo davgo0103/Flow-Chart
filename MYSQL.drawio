@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-27T08:54:21.932Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="4aKvd6fDa5ttODissylx" version="20.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-27T08:54:50.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="h_moywvSkxg-f5MDhUej" version="20.3.6" type="github">
   <diagram id="YUhkREdBM4WMt3FqvFjW" name="第 1 页">
-    <mxGraphModel dx="511" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1580" dy="838" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="850" y="70" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uf8rlOa8gN17JewZ_0CL-2" value="病人" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="690" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="580" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uf8rlOa8gN17JewZ_0CL-3" value="行政工作" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1010" y="610" width="120" height="60" as="geometry" />
